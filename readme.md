@@ -1,0 +1,1 @@
+Esse arquivo faz parte do treino de Git!
