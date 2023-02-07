@@ -1,1 +1,1 @@
-Criação do que seria projeto de fato ^^
+Criação do que seria o projeto de fato ^^
